@@ -91,4 +91,4 @@ Expand rolling-origin backtesting, tune models using training-only validation, i
 
 ---
 
-**Data credit:** FRED / US Census Bureau source series. This an independent educational portfolio project using publicly available statistical data; it contains no private employer or client records.
+**Data credit:** FRED / US Census Bureau source series. This is an independent educational portfolio project using publicly available statistical data; it contains no private employer or client records.
