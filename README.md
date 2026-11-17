@@ -89,6 +89,5 @@ us-retail-sales-forecasting/
 
 Expand rolling-origin backtesting, tune models using training-only validation, introduce relevant economic indicators, evaluate prediction intervals, and build an interactive forecasting dashboard.
 
----
 
 **Data credit:** FRED / US Census Bureau source series. This is an independent educational portfolio project using publicly available statistical data; it contains no private employer or client records.
